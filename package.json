@@ -1,0 +1,19 @@
+{
+  "name": "lesson_25",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElenaRozenkova/lesson_25.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElenaRozenkova/lesson_25/issues"
+  },
+  "homepage": "https://github.com/ElenaRozenkova/lesson_25#readme"
+}
