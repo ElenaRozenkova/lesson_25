@@ -3,3 +3,12 @@ describe(`тестирование функции возведения в сте
         assert.equal(8,8);
     });
 });
+
+describe(`тестирование функции dowbleElem`,()=>{
+    // let arr=ar;
+    // for(i=0; i<=Ar.length;i++)
+    it(`удвоение элементов массива `, ()=>{
+        assert.equal(2,2);
+    });
+});
+
